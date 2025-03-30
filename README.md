@@ -13,7 +13,6 @@ Python
 PyTorch
 FastAI
 Torchvision
-Google Colab
 
 Installation & Setup:
 Clone the Repository
@@ -23,13 +22,15 @@ Edit
 git clone https://github.com/saadjaved155/Waste-Control-System.git
 cd Waste-Control-System
 Install Dependencies
-
 bash
 Copy
 Edit
 pip install torch torchvision fastai numpy  
 Run the Jupyter Notebook
+WasteML Dataset can accessible from drive: https://drive.google.com/drive/folders/1odIHmJu5VRwxjTl0Gsa77mAYYvKv0xoi?usp=sharing
 Open the Jupyter Notebook and execute the cells to train the model.
 
+If you want to get trained model file, click below link.
+https://drive.google.com/file/d/1_4B2CIUXPBUzaZr4hSdmxdha-aSAd9KR/view?usp=sharing
 License
 This project is for viewable purpose for Final Year Project of the University.
